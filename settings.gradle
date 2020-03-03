@@ -1,0 +1,4 @@
+rootProject.name = 'reactive-programming-demo'
+include 'external-service'
+include 'imperative-service'
+include 'reactive-service'
